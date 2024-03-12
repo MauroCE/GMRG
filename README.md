@@ -1,6 +1,24 @@
-# GMRG
-Reading Group on Generative Modelling at the University of Bristol
+# Reading Group on Generative Models
 
-# tab Another tab
+### Past Papers
+| Title                                                                                                                                                                                                       | Date       | Topic                 |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------|
+| [Nearly d-Linear Convergence Bounds for Diffusion Models via Stochastic Localization](https://arxiv.org/abs/2308.03686)                                                                                     | 25/08/2023 | Diffusions            |
+| [Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data](https://arxiv.org/abs/2302.07194)                                                                   | 1/09/2023  | Diffusions            |
+| [Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise](https://arxiv.org/abs/2208.09392)                                                                                                      | 6/09/2023  | Diffusions            |
+| [Improving and generalizing flow-based generative models with minibatch optimal transport](https://arxiv.org/abs/2302.00482)                                                                                | 11/09/2023 | Flows                 |
+| [Simulation-free Schrödinger bridges via score and flow matching](https://arxiv.org/abs/2307.03672)                                                                                                         | 15/09/2023 | Flows                 |
+| [Trans-Dimensional Generative Modeling via Jump Diffusion Models](https://arxiv.org/abs/2305.16261)                                                                                                         | 3/10/2023  | Diffusion             |
+| [Stochastic Interpolants: A Unifying Framework for Flows and Diffusions](https://arxiv.org/abs/2303.08797)                                                                                                  | 5/10/2023  | Diffusions, Flows     |
+| [Convergence of denoising diffusion models under the manifold hypothesis](https://openreview.net/pdf?id=MhK5aXo3gB)                                                                                         | 12/10/2023 | Diffusions, Manifolds |
+| [Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion](https://arxiv.org/abs/2310.02279)                                                                                    | 17/10/2023 | Diffusions, Flows     |
+| [Building Normalizing Flows with Stochastic Interpolants](https://arxiv.org/abs/2209.15571) <br/> [A Unifying Framework for Flows and Diffusions](https://arxiv.org/abs/2303.08797)                         | 19/10/2023 | Diffusions            |
+| [Optimal Transport in Systems and Control](https://www.annualreviews.org/doi/full/10.1146/annurev-control-070220-100858)                                                                                    | 24/10/2023 | Optimal Transport     |
+| [Particle Guidance: non-I.I.D. Diverse Sampling with Diffusion Models](https://arxiv.org/abs/2310.13102)                                                                                                    | 27/10/2023 | Diffusions            |
+| [Generalization in diffusion models arises from geometry-adaptive harmonic representation](https://arxiv.org/abs/2310.02557)                                                                                | 02/11/2023 | Diffusions            |
+| [ROBUST AND INTERPRETABLE BLIND IMAGE DENOISING VIA BIAS-FREE CONVOLUTIONAL NEURAL NETWORKS](https://arxiv.org/abs/1906.05478)                                                                              | 06/11/2023 | Diffusions            |
+| [Diffusion Schrödinger Bridge Matching](https://arxiv.org/abs/2303.16852)                                                                                                                                   | 14/11/2023 | Diffusions            |
+| [Chain of Log-Concave Markov Chains](https://arxiv.org/abs/2305.19473)                                                                                                                                      | 21/11/2023 | Log-Concave           |
+| [Martingale posterior distributions](https://arxiv.org/abs/2103.15671)                                                                                                                                     | 23/11/2023 | Sampling              |
+| [Multimeasurement Generative Models](https://openreview.net/forum?id=QRX0nCX_gk)                                                                                                                           | 05/12/2023 | Generative Models     |
 
-### tab Yet another tab
