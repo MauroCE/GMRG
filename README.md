@@ -1,4 +1,6 @@
 # Reading Group on Generative Models
+Prompt: "Make an image with 10 people in the middle acting like explores and holding a red "Bristol" flag. Around them, I want a Llama, a Mamba, and a Transformer. Give it an Indiana Jones feel."
+![Bristol Squad](bristol_squad.png)
 
 ### Past Papers
 Some of the dates are probably incorrect because I still haven't learned how to read a calendar.
@@ -50,6 +52,7 @@ Tutorials, videos, courses and notes that were shared at various times during th
 - [AlphaFold Meets Flow Matching for Generating Protein Ensembles](https://arxiv.org/pdf/2402.04845.pdf)
 
 ### How to start
+
 1. Transformers
    2. [An Introduction to Transformers](https://arxiv.org/abs/2304.10557) by Turner is perhaps the best way to start with attention, it is simple, to the point and gives you the "shape" of each array, which is helpful at first.
    3. After Turner's paper, I would read [A survey of transformers](https://arxiv.org/abs/2106.04554). There are typos but I found that this paper was helpful in giving a general overview: each paper implements them slightly differently and that made it very confusing for me. 
