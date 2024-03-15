@@ -54,12 +54,12 @@ Tutorials, videos, courses and notes that were shared at various times during th
 ### How to start
 
 1. Transformers
-   2. [An Introduction to Transformers](https://arxiv.org/abs/2304.10557) by Turner is perhaps the best way to start with attention, it is simple, to the point and gives you the "shape" of each array, which is helpful at first.
-   3. After Turner's paper, I would read [A survey of transformers](https://arxiv.org/abs/2106.04554). There are typos but I found that this paper was helpful in giving a general overview: each paper implements them slightly differently and that made it very confusing for me. 
-   4. You will likely still be confused after this paper, so I would recommend [Formal Algorithm for Transformers](https://arxiv.org/abs/2207.09238).
-   5. I would then watch various of Andrey Karpathy's videos to consolidate understanding such as [this](https://www.youtube.com/watch?v=zjkBMFhNj_g) and [this](https://www.youtube.com/watch?v=zduSFxRajkE) and [this](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=485s).
+   - [An Introduction to Transformers](https://arxiv.org/abs/2304.10557) by Turner is perhaps the best way to start with attention, it is simple, to the point and gives you the "shape" of each array, which is helpful at first.
+   - After Turner's paper, I would read [A survey of transformers](https://arxiv.org/abs/2106.04554). There are typos but I found that this paper was helpful in giving a general overview: each paper implements them slightly differently and that made it very confusing for me. 
+   - You will likely still be confused after this paper, so I would recommend [Formal Algorithm for Transformers](https://arxiv.org/abs/2207.09238).
+   - I would then watch various of Andrey Karpathy's videos to consolidate understanding such as [this](https://www.youtube.com/watch?v=zjkBMFhNj_g) and [this](https://www.youtube.com/watch?v=zduSFxRajkE) and [this](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=485s).
 6. Diffusions
-   7. To do..
+   - To do
 
 ### Suggesting new papers
 You can suggest new papers [here](https://forms.gle/S2nhtZDcuekZrY4c6).
