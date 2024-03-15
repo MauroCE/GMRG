@@ -50,6 +50,7 @@ Tutorials, videos, courses and notes that were shared at various times during th
 - [On the Expressivity Role of LayerNorm in Transformers' Attention](https://arxiv.org/abs/2305.02582)
 - [The Annotated S4](https://srush.github.io/annotated-s4/)
 - [AlphaFold Meets Flow Matching for Generating Protein Ensembles](https://arxiv.org/pdf/2402.04845.pdf)
+- [Repo - Formal Algorithms for Transformers](https://github.com/myazdani/formal-algorithms-for-transformers/tree/main)
 
 ### How to start
 
@@ -63,3 +64,5 @@ Tutorials, videos, courses and notes that were shared at various times during th
 
 ### Suggesting new papers
 You can suggest new papers [here](https://forms.gle/S2nhtZDcuekZrY4c6).
+
+
