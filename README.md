@@ -38,6 +38,7 @@ Some of the dates are probably incorrect because I still haven't learned how to 
 | [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) and [How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections](https://arxiv.org/abs/2206.12037)                                                                                                                                                                     | 12/03/2024 | Transformers |
 | [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)  | 15/03/2024 | Transformers |
 | [An Introduction to Transformers](https://arxiv.org/pdf/2304.10557.pdf) | 19/03/2024 | Transformers |
+| [Flow Matching for Generative Modelling](https://arxiv.org/abs/2210.02747v2) | 21/03/2024 | Flows |
 
 ### Additional Resources
 Tutorials, videos, courses and notes that were shared at various times during the reading group.
