@@ -39,6 +39,7 @@ Some of the dates are probably incorrect because I still haven't learned how to 
 | [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238)  | 15/03/2024 | Transformers |
 | [An Introduction to Transformers](https://arxiv.org/pdf/2304.10557.pdf) | 19/03/2024 | Transformers |
 | [Flow Matching for Generative Modelling](https://arxiv.org/abs/2210.02747v2) | 21/03/2024 | Flows |
+| [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://arxiv.org/abs/2404.07839) | 16/04/2024 | Transformers |
 
 ### Additional Resources
 Tutorials, videos, courses and notes that were shared at various times during the reading group.
