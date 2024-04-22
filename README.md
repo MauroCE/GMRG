@@ -55,6 +55,8 @@ Tutorials, videos, courses and notes that were shared at various times during th
 - [The Annotated S4](https://srush.github.io/annotated-s4/)
 - [AlphaFold Meets Flow Matching for Generating Protein Ensembles](https://arxiv.org/pdf/2402.04845.pdf)
 - [Repo - Formal Algorithms for Transformers](https://github.com/myazdani/formal-algorithms-for-transformers/tree/main)
+- [But what is a GPT? Visual intro to transformers - 3B1B](https://youtu.be/wjZofJX0v4M?si=47bs8JLowglfFUIp)
+- [Attention in Transformers, visually explained - 3B1B](https://youtu.be/eMlx5fFNoYc?si=RFzIfJyXwTvWWhKC)
 
 ### How to start
 
