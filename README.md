@@ -40,6 +40,7 @@ Some of the dates are probably incorrect because I still haven't learned how to 
 | [An Introduction to Transformers](https://arxiv.org/pdf/2304.10557.pdf) | 19/03/2024 | Transformers |
 | [Flow Matching for Generative Modelling](https://arxiv.org/abs/2210.02747v2) | 21/03/2024 | Flows |
 | [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://arxiv.org/abs/2404.07839) | 16/04/2024 | Transformers |
+| [Geometric Deep Learning Book](https://arxiv.org/abs/2104.13478) | 19/04/2024 | Geometric Deep Learning |
 
 ### Additional Resources
 Tutorials, videos, courses and notes that were shared at various times during the reading group.
