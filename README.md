@@ -43,6 +43,7 @@ Some of the dates are probably incorrect because I still haven't learned how to 
 | [Geometric Deep Learning Book - Chapter 1](https://arxiv.org/abs/2104.13478)                                                                                                                                                                                                                                                                                                                                | 19/04/2024 | Geometric Deep Learning   |
 | [The Kolmogorov–Arnold representation theorem revisited](https://www.sciencedirect.com/science/article/pii/S0893608021000289) | 26/04/2024 | Theory of Neural Networks |
 | [Breaking the Curse of Dimensionality with Convex Neural Networks](https://arxiv.org/abs/1412.8690) | 30/04/2024 | Theory of Neural Networks |
+| [Any-dimensional equivariant Neural Networks](https://arxiv.org/abs/2306.06327) | 02/05/2024 | Theory of Neural Networks |
 
 ### Additional Resources
 Tutorials, videos, courses and notes that were shared at various times during the reading group.
