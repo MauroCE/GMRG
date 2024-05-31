@@ -51,7 +51,7 @@ Some of the dates are probably incorrect because I still haven't learned how to 
 | Continued [White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?](https://arxiv.org/pdf/2311.13110) and skimmed [ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction](https://arxiv.org/pdf/2105.10446) and [Segmentation of Multivariate Mixed Data via Lossy Data Coding and Compression](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4288157) | 23/05/2024 | Transformers              |
 | [Scalable Optimization in the Modular Norm](https://arxiv.org/abs/2405.14813) | 28/05/2024 | Stochastic Optimization   |
 | [On a Neural Implementation of Brenier’s Polar Factorization](https://arxiv.org/pdf/2403.03071) | 30/05/2024 | Optimal Transport         |
-
+| [On Amortizing Convex Conjugates for Optimal Transport](https://arxiv.org/pdf/2210.12153) | 31/05/2024 | Optimal Transport         | 
 
 ### Additional Resources
 Tutorials, videos, courses and notes that were shared at various times during the reading group.
