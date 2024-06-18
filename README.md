@@ -55,6 +55,7 @@ Some of the dates are probably incorrect because I still haven't learned how to 
 | [Metric Flow Matching for Smooth Interpolations on the Data Manifold](https://arxiv.org/abs/2405.14780) | 06/06/2024 | Flows                     |
 | [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/pdf/2310.16834) | 7/06/2024 | Diffusions                |
 | [Flow Map Matching](https://arxiv.org/pdf/2406.07507) | 14/06/2024 | Flows                     |
+| [Markovian Flow Matching: Accelerating MCMC with Continuous Normalizing Flows](https://arxiv.org/abs/2405.14392) | 18/06/2024 | Flows                     |
 
 ### Additional Resources
 Tutorials, videos, courses and notes that were shared at various times during the reading group.
