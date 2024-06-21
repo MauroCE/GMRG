@@ -57,6 +57,7 @@ Some of the dates are probably incorrect because I still haven't learned how to 
 | [Flow Map Matching](https://arxiv.org/pdf/2406.07507) | 14/06/2024 | Flows                     |
 | [Markovian Flow Matching: Accelerating MCMC with Continuous Normalizing Flows](https://arxiv.org/abs/2405.14392) | 18/06/2024 | Flows                     |
 | [Continual Repeated Annealed Flow Transport Monte Carlo](https://proceedings.mlr.press/v162/matthews22a/matthews22a.pdf) | 20/06/2024 | Flows                     |
+| [Differentiable Cost-Parameterized Monge Map Estimators](https://arxiv.org/abs/2406.08399) | 21/06/2024 | Optimal Transport         |
 
 ### Additional Resources
 Tutorials, videos, courses and notes that were shared at various times during the reading group.
