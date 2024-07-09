@@ -60,6 +60,7 @@ Some of the dates are probably incorrect because I still haven't learned how to 
 | [Differentiable Cost-Parameterized Monge Map Estimators](https://arxiv.org/abs/2406.08399) | 21/06/2024 | Optimal Transport         |
 | [Generative Modeling through the Semi-dual Formulation of Unbalanced Optimal Transport](https://proceedings.neurips.cc/paper_files/paper/2023/file/84706cdfc192cd0351daf48f379847e6-Paper-Conference.pdf) | 25/06/2024 | Optimal Transport         |
 | [Stochastic Localization via Iterative Posterior Sampling](https://arxiv.org/pdf/2402.10758) | 27/06/2024 | Diffusions                |
+| [Operator-informed score matching for Markov diffusion models](https://arxiv.org/abs/2406.09084) | 09/07/2024 | Diffusions                |
 
 ### Additional Resources
 Tutorials, videos, courses and notes that were shared at various times during the reading group.
